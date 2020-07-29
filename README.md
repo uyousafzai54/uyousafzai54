@@ -11,8 +11,13 @@ I'm an incoming Software Engineering student at the University of Waterloo in Fa
 * Implementing AI to play checkers 
 * Learning TensorFlow for image registrations 
 
-## 💬 Ask me about:
+## 💬 Ask Me About:
 My projects, music interests, Netflix recommendations or anything else!
+
+##🌱I’m Currently Reading: 
+* Skunk Works
+* Deep Work
+* Atomic Habits
 
 ## 📫 Reach Me: 
 
