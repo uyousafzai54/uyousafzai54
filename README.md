@@ -9,7 +9,7 @@ I'm an incoming Software Engineering student at the University of Waterloo in Fa
 * Creating a Ray Tracing program in C++
 * Creating an Evernote clone using Firebase and React
 * Implementing AI to play checkers 
-* Learning TensorFlow 
+* Learning TensorFlow for image registrations 
 
 ## 💬 Ask me about:
 My projects, music interests, Netflix recommendations or anything else!
