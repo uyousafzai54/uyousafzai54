@@ -1,6 +1,8 @@
 # Hi, I'm Umar Yousafzai 👋
 
 I'm an incoming Software Engineering student at the University of Waterloo in Fall 2020. I'm interested in the intersection of software engineering and medicine. 
+
+![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 <!--I have previously worked as a research student at Princess Margaret Cancer Centre to analyze image registration algorithms for tumour delineations. I'm interested in the intersection between software engineering and medicine. -->
 
 ## 🔭 Current Work:
