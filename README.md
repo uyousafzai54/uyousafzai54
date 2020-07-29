@@ -9,6 +9,8 @@ I'm an incoming Software Engineering student at the University of Waterloo in Fa
 * Implementing AI to play checkers 
 * Learning TensorFlow 
 
+💬 Ask me about my projects, music interests, Netflix recommendations or anything else!
+
 📫 Reach Me: 
 
 [LinkedIn](https://www.linkedin.com/in/umar-yousafzai/ "LinkedIn") | [Email](mailto:uyousafz@uwaterloo.ca)
