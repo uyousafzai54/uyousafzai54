@@ -10,7 +10,7 @@ I'm an incoming Software Engineering student at the University of Waterloo in Fa
 * Learning TensorFlow 
 
 ## 💬 Ask me about:
-my projects, music interests, Netflix recommendations or anything else!
+My projects, music interests, Netflix recommendations or anything else!
 
 ## 📫 Reach Me: 
 
