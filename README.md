@@ -9,6 +9,9 @@ I'm an incoming Software Engineering student at the University of Waterloo in Fa
 * Implementing AI to play checkers 
 * Learning TensorFlow 
 
+📫 Reach Me: 
+https://www.linkedin.com/in/umar-yousafzai/ "LinkedIn"
+
 <!--
 **uyousafzai54/uyousafzai54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
