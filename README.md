@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Umar Yousafzai 👋
+
+I'm an incoming software engineering student at the University of Waterloo in Fall 2020. I have previously worked as a research student at Princess Margaret Cancer Centre to analyze image registration algorithms for tumour delineations. I'm interested in the intersection between software engineering and medicine. 
 
 <!--
 **uyousafzai54/uyousafzai54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
