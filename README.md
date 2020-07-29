@@ -14,7 +14,7 @@ I'm an incoming Software Engineering student at the University of Waterloo in Fa
 ## 💬 Ask Me About:
 My projects, music interests, Netflix recommendations or anything else!
 
-##🌱I’m Currently Reading: 
+## 🌱I’m Currently Reading: 
 * Skunk Works
 * Deep Work
 * Atomic Habits
