@@ -10,7 +10,8 @@ I'm an incoming Software Engineering student at the University of Waterloo in Fa
 * Learning TensorFlow 
 
 📫 Reach Me: 
-https://www.linkedin.com/in/umar-yousafzai/ "LinkedIn"
+
+[LinkedIn]https://www.linkedin.com/in/umar-yousafzai/
 
 <!--
 **uyousafzai54/uyousafzai54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
