@@ -1,6 +1,6 @@
 # Hi, I'm Umar Yousafzai 👋
 
-I'm an incoming Software Engineering student at the University of Waterloo in Fall 2020. I'm interested in the intersection of software engineering and medicine. 
+I'm currently a 1A Software Engineering student at the University of Waterloo.
 
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 <!--I have previously worked as a research student at Princess Margaret Cancer Centre to analyze image registration algorithms for tumour delineations. I'm interested in the intersection between software engineering and medicine. -->
@@ -9,13 +9,14 @@ I'm an incoming Software Engineering student at the University of Waterloo in Fa
 * Creating a Ray Tracing program in C++
 * Creating an Evernote clone using Firebase and React
 * Implementing AI to play checkers 
-* Learning TensorFlow for image registrations 
 
 ## 💬 Ask Me About:
 My projects, music interests, Netflix recommendations or anything else!
 
 ## 🌱I’m Currently Reading: 
 * Skunk Works
+* The Right Stuff
+* A Man On The Moon
 * Deep Work
 * Atomic Habits
 
