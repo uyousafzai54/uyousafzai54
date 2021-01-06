@@ -5,16 +5,6 @@ I'm currently a 1A Software Engineering student at the University of Waterloo.
 ![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 <!--I have previously worked as a research student at Princess Margaret Cancer Centre to analyze image registration algorithms for tumour delineations. I'm interested in the intersection between software engineering and medicine. -->
 
-## 💬 Ask Me About:
-My projects, music interests, Netflix recommendations or anything else!
-
-## 🌱I’m Currently Reading: 
-* Skunk Works
-* The Right Stuff
-* A Man On The Moon
-* Deep Work
-* Atomic Habits
-
 ## 📫 Reach Me: 
 
 [LinkedIn](https://www.linkedin.com/in/umar-yousafzai/ "LinkedIn") | [Email](mailto:uyousafz@uwaterloo.ca)
