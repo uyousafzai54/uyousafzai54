@@ -2,7 +2,6 @@
 
 I'm currently a 1A Software Engineering student at the University of Waterloo.
 
-![Alt Text](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 <!--I have previously worked as a research student at Princess Margaret Cancer Centre to analyze image registration algorithms for tumour delineations. I'm interested in the intersection between software engineering and medicine. -->
 
 ## 📫 Reach Me: 
