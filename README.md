@@ -1,6 +1,6 @@
 # Hi, I'm Umar Yousafzai 👋
 
-I'm currently a Software Engineering student at the University of Waterloo.
+I'm a Software Engineering student at the University of Waterloo. Currently, I'm working as a Full Stack Developer for the RCAF Aerospace Warfare Centre Flight Deck Innovation Lab. 
 
 <!--I have previously worked as a research student at Princess Margaret Cancer Centre to analyze image registration algorithms for tumour delineations. I'm interested in the intersection between software engineering and medicine. -->
 
