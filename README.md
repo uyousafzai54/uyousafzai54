@@ -1,8 +1,8 @@
 # Hi, I'm Umar Yousafzai 👋
 
-I'm a Software Engineering student at the University of Waterloo. Currently, I'm working as a Full Stack Developer for the [Flight Deck](https://www.theflightdeck.ca/) in RCAF's Aerospace Warfare Centre (RWAC).   
+I'm a Software Engineering student at the University of Waterloo. I'm currently looking for a SWE internship for Winter 2022. Previously, I worked as a Full Stack Developer for the [Flight Deck](https://www.theflightdeck.ca/) in RCAF's Aerospace Warfare Centre (RWAC) where I created v5 of COVID CTRL, a COVID-19 risk assessment tool used throughout the Canadian Armed Forces. I also worked as a summer student at the Princess Margaret Cancer Centre where I researched deformable image registrations in RayStation for online adaptive radiotherapy. 
 
-<!--I have previously worked as a research student at Princess Margaret Cancer Centre to analyze image registration algorithms for tumour delineations. I'm interested in the intersection between software engineering and medicine. -->
+
 
 ## 📫 Reach Me: 
 
