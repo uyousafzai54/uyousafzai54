@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at the University of Waterloo. I'm currently looking for a SWE internship for Winter 2022. 
 
-Previously, I worked as a Full Stack Developer for the [Flight Deck](https://www.theflightdeck.ca/) in RCAF's Aerospace Warfare Centre (RWAC) where I created v5 of [COVID CTRL](http://covid-staging.azurewebsites.net/), a COVID-19 risk assessment tool used throughout the RCAF. I have also worked as a summer student at the Princess Margaret Cancer Centre where I researched deformable image registrations in RayStation for online adaptive radiotherapy in liver cancer patients. 
+Previously, I worked as a Full Stack Developer for the [Flight Deck](https://www.theflightdeck.ca/) in RCAF's Aerospace Warfare Centre (RWAC) where I created v5 of [COVID CTRL](http://covid.theflightdeck.ca/), a COVID-19 risk assessment tool used throughout the RCAF. I have also worked as a summer student at the Princess Margaret Cancer Centre where I researched deformable image registrations in RayStation for online adaptive radiotherapy in liver cancer patients. 
 
 
 
