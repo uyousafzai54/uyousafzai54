@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student at the University of Waterloo. I'm currently looking for Summer 2023 internships!
 
-Previosuly, I worked at [Level Home](https://level.co) as a Software Engineering, Embedded intern and at [Carta's](https://carta.com/) Service Infrastructure Team as a Software Engineering Intern. I am also a Project Developer in [UW Blueprint](https://uwblueprint.org/) where I'm building a camp booking system for [Focus on Nature](https://github.com/carta/carta-grpc-python/blob/master/carta/grpc/interceptor/server/logging.py#L81). 
+Previously, I worked at [Level Home](https://level.co) as a Software Engineering, Embedded intern and at [Carta's](https://carta.com/) Service Infrastructure Team as a Software Engineering Intern. I am also a Project Developer in [UW Blueprint](https://uwblueprint.org/) where I'm building a camp booking system for [Focus on Nature](https://github.com/carta/carta-grpc-python/blob/master/carta/grpc/interceptor/server/logging.py#L81). 
 
 In the past I have also worked as a Full Stack Developer for the [Flight Deck](https://www.theflightdeck.ca/) in RCAF's Aerospace Warfare Centre (RWAC) and as a summer research student at the Princess Margaret Cancer Centre.
 
