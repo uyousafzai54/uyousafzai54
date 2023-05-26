@@ -1,6 +1,6 @@
 # Hi, I'm Umar Yousafzai 👋
 
-I'm a Software Engineering student at the University of Waterloo. I'm currently looking for Summer 2023 internships!
+I'm a Software Engineering student at the University of Waterloo. 
 
 Previously, I worked at [Level Home](https://level.co) as a Software Engineering, Embedded intern and at [Carta's](https://carta.com/) Service Infrastructure Team as a Software Engineering Intern. I am also a Project Developer in [UW Blueprint](https://uwblueprint.org/) where I'm building a camp booking system for [Focus on Nature](https://github.com/carta/carta-grpc-python/blob/master/carta/grpc/interceptor/server/logging.py#L81). 
 
