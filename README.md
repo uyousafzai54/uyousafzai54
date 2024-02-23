@@ -1,6 +1,8 @@
 # Hi, I'm Umar Yousafzai 👋
 
-I'm a Computer Science student at the University of Waterloo. I'm currently on a gap term focusing on radiogenomics research at [BHKLab](https://www.pmgenomics.ca/bhklab/) and cycling!
+I'm a Computer Science student at the University of Waterloo. Currently, I'm a Software Engineering Intern at Apple doing some cool things with distributed systems and time series databases :)
+
+Recently (summer 2023), I completed a gap term focusing on radiogenomics research at [BHKLab](https://www.pmgenomics.ca/bhklab/), cycling and health!
 
 Previously, I worked at [Level Home](https://level.co) as a Software Engineering, Embedded intern and at [Carta's](https://carta.com/) Service Infrastructure Team as a Software Engineering Intern. I was also a Project Developer in [UW Blueprint](https://uwblueprint.org/) where I helped build a camp booking system for [Focus on Nature](https://github.com/carta/carta-grpc-python/blob/master/carta/grpc/interceptor/server/logging.py#L81). 
 
