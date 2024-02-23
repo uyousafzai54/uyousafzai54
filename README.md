@@ -1,6 +1,6 @@
 # Hi, I'm Umar Yousafzai 👋
 
-I'm a Computer Science student at the University of Waterloo. Currently, I'm a Software Engineering Intern at Apple doing some cool things with distributed systems and time series databases :)
+I'm a Computer Science student at the University of Waterloo. Currently, I'm a Software Engineering Intern at Apple  doing some cool things with distributed systems and time series databases :)
 
 Recently (summer 2023), I completed a gap term focusing on radiogenomics research at [BHKLab](https://www.pmgenomics.ca/bhklab/), cycling and health!
 
