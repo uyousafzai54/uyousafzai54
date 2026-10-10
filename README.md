@@ -13,8 +13,9 @@ In the past, I worked at [Level Home](https://level.co) as a Software Engineerin
 In the past I have also worked as a Full Stack Developer for the [Flight Deck](https://www.theflightdeck.ca/) in RCAF's Aerospace Warfare Centre (RWAC) and as a summer research student at the Princess Margaret Cancer Centre.
 
 ## 📫 Reach Me: 
-
-[LinkedIn](https://www.linkedin.com/in/umar-yousafzai/ "LinkedIn") | [Email](mailto:uyousafz@uwaterloo.ca)
+[Web](umaryousafzai.net)
+[LinkedIn](https://www.linkedin.com/in/umar-yousafzai/ "LinkedIn") 
+[Email](mailto:uyousafz@uwaterloo.ca)
 
 <!--
 **uyousafzai54/uyousafzai54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
