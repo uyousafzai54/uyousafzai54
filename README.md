@@ -1,6 +1,6 @@
 # Hi, I'm Umar Yousafzai 👋
 
-[https://umaryousafzai.net](https://umaryousafzai.net)
+[https://umaryousafzai.net](https://umaryousafzai.net/blog)
 
 I'm a fourth year Computer Science student at the University of Waterloo and completed my first two years in Software Engineering at Waterloo. 
 
